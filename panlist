@@ -2,6 +2,8 @@
 # -*- coding: us-ascii -*-
 ## "panlist" mailing list configuration settings
 ## captured on Thu Feb  3 15:17:54 2011
+### An updated version of this code can be found here: 
+###https://github.com/stuartteal/mailmanconfig-panlist
 
 ## General options
 #
