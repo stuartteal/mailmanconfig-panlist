@@ -653,7 +653,7 @@ obscure_addresses = 1
 # legal values are:
 #    0 = "No"
 #    1 = "Yes"
-default_member_moderation = 1
+default_member_moderation = 0
 
 # Hold -- this holds the message for approval by the list moderators.
 # 
@@ -725,7 +725,7 @@ discard_these_nonmembers = []
 #    1 = "Hold"
 #    2 = "Reject"
 #    3 = "Discard"
-generic_nonmember_action = 1
+generic_nonmember_action = 0
 
 # Should messages from non-members, which are automatically discarded,
 # be forwarded to the list moderator?
@@ -765,7 +765,7 @@ nonmember_rejection_notice = ''
 # legal values are:
 #    0 = "No"
 #    1 = "Yes"
-require_explicit_destination = True
+require_explicit_destination = 0
 
 # Alternate addresses that are acceptable when
 # `require_explicit_destination' is enabled.  This option takes a list
@@ -787,7 +787,7 @@ acceptable_aliases = ''
 
 # If a posting has this number, or more, of recipients, it is held for
 # admin approval.  Use 0 for no ceiling.
-max_num_recipients = 10
+max_num_recipients = 0
 
 ## Privacy options
 #
